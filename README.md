@@ -12,4 +12,5 @@ This is the second commit from feature/feature-A
 Create branch feature/feature-B
 Third commit from feature/feature-B
 
-Create branch feature/feature-D
+Create branch feature/feature-D 
+First commit in feature/feature-D
